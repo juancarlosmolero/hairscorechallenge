@@ -1,12 +1,8 @@
 export default function Home() {
   return (
-    <main style={{padding: "40px", fontFamily: "Arial"}}>
+    <main>
       <h1>HairScore Challenge</h1>
-      <p>Upload your hairline and get rated.</p>
-
-      <button>
-        Start HairScore
-      </button>
+      <p>The site is working 🚀</p>
     </main>
   );
 }
