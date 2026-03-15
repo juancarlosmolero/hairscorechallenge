@@ -1,8 +1,8 @@
-export default function Home() {
+export default function Page() {
   return (
     <main>
       <h1>HairScore Challenge</h1>
-      <p>Site working 🚀</p>
+      <p>The website is working 🚀</p>
     </main>
   );
 }
